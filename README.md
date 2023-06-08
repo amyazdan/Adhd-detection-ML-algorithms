@@ -1,1 +1,1 @@
-# Adhd-detection-ML_algorithms
+# Adhd-detection-ML-algorithms
