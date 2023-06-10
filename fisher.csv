@@ -1,0 +1,115 @@
+Feature Name,Description,Score,Ali,Sina,Borhan,Yazdan,Dr Sheikhy
+K2Q34A,"Behavior Problems (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Behavioral or Conduct Problems?
+Examples of educators are teachers and school nurses.",9077.975901,S,,,Y ,Y
+K2Q34C,Behavior Problems Severity,8570.160761,S,,,Y,
+MEMORYCOND,"Serious Difficulty Concentrating, Remembering, or Making Decisions (T2 T3)
+Header: Does this child have any of the following?
+Serious difficulty concentrating, remembering, or making decisions because of a physical, mental, or 
+emotional condition",7828.906712,Y,,,Y,Y
+K4Q23,Emotions Concentration Behavior Medication,7452.446744,S,,,S,Y
+SC_K2Q22,"SC Needs Treatment for Emotion Develop Behave (S1)
+Does this child have any kind of emotional, developmental,
+ or behavioral problem for which they need 
+treatment or counseling?",6621.01046,S,,,S,Y
+SC_K2Q13,"SC Needs or Uses More Medical Care than Others (S1)
+Does this child need or use more medical care,
+ mental health, or educational services than is usual for 
+most children of the same age?",5427.696994,S,,,S,
+TOTCSHCN,"Count of Children with Special Health Care Needs in
+ Household (S1)",4952.451972,Y,,,Y,Y
+K2Q30A,"Learning Disability (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Learning Disability?
+Examples of educators are teachers and school nurses.",4577.544845,Y,,,Y,Y
+K2Q30C,Learning Disability,4231.256279,Y,,,Y,
+K4Q22_R,Mental Health Professional Treatment,3454.522933,-,,,S,Y
+K8Q31        ,"How Often Have You Felt - Child Hard to Care For (T1 T2 T3) Header: During the past month,
+ how often have you felt: That this child is much harder to care for than most children their age",3441.678919,S,,,Y,Y
+K7Q04R_R,Times School Contacted Household About Problems,2961.161209,-,,,Y,Y
+MAKEFRIEND        ,"Difficulty Making or Keeping Friends (T1 T2 T3) Compared to other children their age, how much 
+difficulty does this child have making or keeping friends?",2928.877625,Y,,,Y,Y
+K7Q84_R,Works to Finish Tasks Started,2830.931039,Y,,,Y,Y
+K2Q33C,Anxiety Severity,2808.583131,Y,,,Y,
+K2Q33A,"Anxiety (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Anxiety Problems?",2744.389915,Y,,,Y,Y
+K7Q82_R,Cares About Doing Well in School,2417.59717,Y,,,Y,Y
+K7Q85_R,Stays Calm and In Control When Challenged,2284.804265,Y,,,Y,Y
+K2Q36A,"Developmental Delay (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Developmental Delay?
+Examples of educators are teachers and school nurses",1914.102152,S,,,S,Y
+SC_K2Q16,"SC Limited Ability (S1)
+Is this child limited or prevented in any way in their ability
+ to do the things most children of the same age 
+can do?",1874.553979,S,,,S,Y
+K8Q32,How Often Have You Felt - Child Really Bothers You,1849.249584,S,,,S,
+K2Q36C,Developmental Delay Severity,1844.265824,S,,,S,
+SC_K2Q17,"SC Limited Ability from Health Condition (S1)
+If yes, is this child's limitation in abilities because of ANY
+ medical, behavioral, or other health condition?",1703.856717,-,,,-,Y
+BULLIED_R,"DURING THE PAST 12 MONTHS, how often
+Bullied, Picked On, or Excluded by Others",1620.187893,Y,,,Y,Y
+K2Q32A,"Depression (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Depression?",1587.933087,Y,,,Y,Y
+K2Q32C,Depression Severity,1470.092858,Y,,,Y,
+K2Q35C,Autism ASD,1159.960649,-,,,-,
+K7Q70_R,Argues Too Much,1104.950105,Y,,,Y,Y
+BULLY,"DURING THE PAST 12 MONTHS, how often
+Bullies Others, Picks on Them, or Excludes Them ",993.559093,Y,,,Y,Y
+K2Q35A,"Autism ASD (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Autism or Autism Spectrum Disorder (ASD)?
+Include diagnoses of Asperger's Disorder or Pervasive Developmental Disorder (PDD).",944.617525,-,,,-,Y
+GENETIC_DESC,Genetic Condition,898.808179,S,,,Y,
+K2Q01,General Health,835.249585,S,,,Y,Y
+K8Q34,- How Often Have You Felt - Angry with Child,827.3539,Y,,,Y,
+K6Q71_R,Show Interest and Curiosity,783.002379,Y,,,Y,Y
+K8Q21,"- Share Ideas or Talk About Things That Matter
+How well can you and this child share ideas or talk about
+ things that really matter?",757.783461,Y,,,Y,Y
+GENETIC_DESC,Genetic Condition,754.670517,S,,,Y,
+K2Q37A,"Speech Disorder (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Speech or other language disorder?
+Examples of educators are teachers and school nurses",551.843738,Y,,,Y,Y
+K7Q02R_R,Days Child Missed School - Illness or Injury,475.660213,Y,,,Y,Y
+K2Q37C,Speech Disorder,469.036421,Y,,,Y,Y
+A1_MENTHEALTH,"In general, how is your mental or emotional health? ",423.796405,S,,,Y,Y
+SC_SEX,child sex(1),421.984014,Y,,,Y,Y
+K8Q30,"How Well Handling Demands of Raising Children
+How well do you think you are handling the day-to-day 
+demands of raising children?",368.171098,Y,,,Y,Y
+ACE11,Treated or judged unfairly because of health condition,351.109387,Y,,,Y,Y
+ACE1,"- Hard to Cover Basics Like Food or Housing (T1 T2 T3)
+SINCE THIS CHILD WAS BORN, how often has it been
+ very hard to cover the basics, like food or housing, on 
+your family's income?",338.076762,Y,,,Y,Y
+ISSUECOST,Needed Health Care Not Received Due to - Cost,314.259732,Y,,,Y,Y
+A1_PHYSHEALTH,"In general, how is your physical health? ",279.66616,Y,,,Y,Y
+HOSPITALER,"- Hospital Emergency Room Visits
+DURING THE PAST 12 MONTHS, how many times did 
+his child visit a hospital emergency room?",275.993189,S,,,S,
+K2Q60C,Intellectual Disability,263.962901,S/Y,,,Y,Y
+S4Q01,"DURING THE PAST 12 MONTHS, did this child see a doctor, nurse,
+ or other health care professional for sickchild care, well-child check-ups
+, physical exams, hospitalizations or any other kind of medical care? 
+Include health care visits done by video or phone.",240.795341,S-,,,S,
+FAMILY_R,- Family Structure (T1 T2 T3),229.917029,Y,,,Y,Y
+ACE8,lived with dpressed or mentally illed person,213.434007,Y,,,Y,Y
+TOTFEMALE,Count of Female Children in Household (S1),210.776534,Y,,,Y,Y
+FOODSIT,  Food Situation In Household in past 12 months,200.995498,Y,,,Y,Y
+SCREENTIME,"How Much Time Spent with TV, Cellphone, Computer",198.657858,Y,,,Y,Y
+K2Q60A,"Intellectual Disability (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Intellectual Disability (formerly known as Mental Retardation)?
+Examples of educators are teachers and school nurses.",192.256455,S/Y,,,Y,Y
+K7Q30,Sports Team or Sports Lessons,189.735006,Y,,,Y,Y
+ACE3,Parent or guardian divorced or separated,186.962195,Y,,,Y,Y
+K2Q40C,Asthma Severity Description,173.709076,Y,,,Y,
+K2Q40A,"Asthma (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Asthma?",167.20043,S,,,Y,Y

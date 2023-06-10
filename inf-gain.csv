@@ -1,0 +1,112 @@
+Feature Name,Description,Score,,Ali,Sina,Borhan,Yazdan,Dr Sheikhy,
+K4Q23,Emotions Concentration Behavior Medication,0.1317977173,13.18%,-,,,-,Y,
+K2Q34A,"Behavior Problems (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Behavioral or Conduct Problems?
+Examples of educators are teachers and school nurses.",0.1096396411,10.96%,-,,,-,Y,
+K2Q34B,"Behavior Problems Currently (T1 T2 T3)
+If yes, does this child CURRENTLY have the condition?",0.102587317,10.26%,-,Y,,-,,
+MEMORYCOND,"Serious Difficulty Concentrating, Remembering, or Making Decisions (T2 T3)
+Header: Does this child have any of the following?
+Serious difficulty concentrating, remembering, or making decisions because of a physical, mental, or 
+emotional condition",0.09899405446,9.90%,Y,Y,,Y ,Y,
+K2Q34C,Behavior Problems Severity,0.09297471703,9.30%,,-,,Y,,
+TOTCSHCN,"Count of Children with Special Health Care Needs in
+ Household (S1)",0.08520951216,8.52%,Y,-,,Y,Y,
+SC_K2Q22,"SC Needs Treatment for Emotion Develop Behave (S1)
+Does this child have any kind of emotional, developmental,
+ or behavioral problem for which they need 
+treatment or counseling?",0.08030827287,8.03%,-,Y,,-,Y,
+SC_K2Q13,"SC Needs or Uses More Medical Care than Others (S1)
+Does this child need or use more medical care,
+ mental health, or educational services than is usual for 
+most children of the same age?",0.07331939626,7.33%,-,Y,,-,,
+K2Q30A,"Learning Disability (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Learning Disability?
+Examples of educators are teachers and school nurses.",0.06183155783,6.18%,Y,Y,,Y,Y,
+K7Q84_R,Works to Finish Tasks Started,0.05586913478,5.59%,Y,,,Y,Y,
+K8Q31,How Often Have You Felt - Child Hard to Care For,0.05322053699,5.32%,S,,,Y,Y,
+K4Q22_R,Mental Health Professional Treatment,0.05296499119,5.30%,Y,,,Y,Y,
+K2Q30C,Learning Disability,0.05097844291,5.10%,Y,,,Y,Y,
+K7Q85_R,Stays Calm and In Control When Challenged,0.04624838577,4.62%,Y,,,Y,Y,
+MAKEFRIEND," Difficulty Making or Keeping Friends (T1 T2 T3)
+Compared to other children their age, how much difficulty
+ does this child have making or keeping friends?",0.04333054208,4.33%,Y,,,Y,Y,
+K2Q33A,"Anxiety (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Anxiety Problems?",0.04279962808,4.28%,Y,,,Y,Y,
+K2Q33C,Anxiety Severity,0.04061897301,4.06%,Y,,,Y,,
+K7Q04R_R,Times School Contacted Household About Problems,0.04016582486,4.02%,Y,,,Y,Y,
+K7Q82_R,Cares About Doing Well in School,0.040057987,4.01%,Y,,,Y,Y,
+K2Q36A,"Developmental Delay (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Developmental Delay?
+Examples of educators are teachers and school nurses",0.031890684,3.19%,S,,,S,Y,
+K8Q32,How Often Have You Felt - Child Really Bothers You,0.03082361955,3.08%,Y,,,Y,,
+K7Q70_R,Argues Too Much,0.0283445378,2.83%,Y,,,Y,Y,
+K2Q32A,"Depression (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Depression?",0.02762192187,2.76%,Y,,,Y,Y,
+SC_K2Q17,"SC Limited Ability from Health Condition (S1)
+If yes, is this child's limitation in abilities because of ANY
+ medical, behavioral, or other health condition?",0.02737465052,2.74%,S,,,S,Y,-
+BULLIED_R,"DURING THE PAST 12 MONTHS, how often
+Bullied, Picked On, or Excluded by Others",0.026829422,2.68%,S,,,S,Y,
+SC_K2Q16,"SC Limited Ability (S1)
+Is this child limited or prevented in any way in their ability
+ to do the things most children of the same age 
+can do?",0.02637795143,2.64%,Y,,,Y,Y,
+K2Q35A,"Autism ASD (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Autism or Autism Spectrum Disorder (ASD)?
+Include diagnoses of Asperger's Disorder or Pervasive Developmental Disorder (PDD).",0.02528139337,2.53%,S,,,S,Y,
+K2Q36C,Developmental Delay Severity,0.02462262104,2.46%,S,,,S,,
+ACE11,Treated or judged unfairly because of health condition,0.02359140268,2.36%,S,,,Y,Y,
+K2Q32C,Depression Severity,0.0229550671,2.30%,Y,,,Y,,
+K8Q34,- How Often Have You Felt - Angry with Child,0.02227314737,2.23%,S,,,Y,,
+K2Q01,General Health,0.02075076127,2.08%,S,,,Y,Y,
+K6Q71_R,Show Interest and Curiosity,0.01908226719,1.91%,Y,,,Y,Y,
+BULLY,"DURING THE PAST 12 MONTHS, how often
+Bullies Others, Picks on Them, or Excludes Them ",0.01775819046,1.78%,S,,,Y,Y,
+K2Q35C,Autism ASD,0.01659022302,1.66%,-,,,-,,
+K8Q21,"- Share Ideas or Talk About Things That Matter
+How well can you and this child share ideas or talk about
+ things that really matter?",0.01498884142,1.50%,Y,,,Y,Y,
+K2Q37A,"Speech Disorder (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Speech or other language disorder?
+Examples of educators are teachers and school nurses",0.01482106203,1.48%,Y,,,Y,Y,
+GENETIC,"Genetic Condition (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Other genetic or inherited condition?",0.01414201565,1.41%,S,,,Y,Y,
+A1_MENTHEALTH,"In general, how is your mental or emotional health? ",0.01282341909,1.28%,Y,,,Y,Y,
+ACE8,lived with dpressed or mentally illed person,0.01226263141,1.23%,Y,,,Y,Y,
+A2_MENTHEALTH,,0.01215950043,1.22%,Y,,,Y,Y,
+SC_SEX,child sex(1),0.01188997563,1.19%,Y,,,Y,Y,
+K2Q60A,"Intellectual Disability (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Intellectual Disability (formerly known as Mental Retardation)?
+Examples of educators are teachers and school nurses.",0.01132609289,1.13%,S,,,Y,Y,
+K2Q37C,Speech Disorder,0.01131379222,1.13%,Y,,,Y,,
+GENETIC_DESC,Genetic Condition,0.01122339011,1.12%,S,-,,Y,,
+ACE7,was a victim of violence in their neighborhood,0.01057743215,1.06%,Y,Y,,Y,Y,
+ACE9,lived with a alcholic or drug person,0.01057565293,1.06%,Y,Y,,Y,Y,
+ACE6,saw parents kick another,0.01056277757,1.06%,Y,Y,,Y,Y,
+FOODSIT,  Food Situation In Household in past 12 months,0.009768605263,0.98%,Y,-,,Y,Y,
+K10Q23,Vandalism such as broken windows or graffiti?,0.009338137557,0.93%,Y,-,,Y,Y,
+HEADACHE,Headaches Severity,,,Y,,,Y,?,
+K2Q60A,"Intellectual Disability (T1 T2 T3) Header: Has a doctor, other health care provider,
+or educator EVER told you that this child has…
+ Intellectual Disability (formerly known as Mental Retardation)? Examples of educators
+ are teachers and school nurses.",,,Y/S,,,Y,,
+K10Q31,People watch Out for Other's Children in neighborhood,,,Y,,,Y,Y,
+K2Q37C,Speech Disorder,,,Y,,,Y,,
+A1_PHYSHEALTH,"In general, how is your physical health? Adult",,,Y,,,Y,Y,
+BLOOD,"Blood Disorder (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Blood Disorders (such as Sickle Cell Disease, Thalassemia, or Hemophilia)?",,,Y,,,Y,Y,
+ISSUECOST,Needed Health Care Not Received Due to - Cost,,,Y,,,Y,Y,
+A2_PHYSHEALTH,"In general, how is your physical health? Adult",,,Y,,,Y,Y,
+K7Q32,Organized Activities or Lessons,,,Y,,,Y,Y,
+K10Q13,"community center, or boys' and girls' club?",,,Y,,,,Y,

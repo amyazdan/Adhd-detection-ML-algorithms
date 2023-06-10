@@ -1,0 +1,121 @@
+,,,,,,,,,,,,,,
+K2Q34A,,,,,,,,,,,,SC_K2Q22,"SC Needs Treatment for Emotion Develop Behave (S1)
+Does this child have any kind of emotional, developmental,
+ or behavioral problem for which they need 
+treatment or counseling?",Y
+SC_K2Q22,,,,,,,,,,,,SC_K2Q13,"SC Needs or Uses More Medical Care than Others (S1)
+Does this child need or use more medical care,
+ mental health, or educational services than is usual for 
+most children of the same age?",Y
+SC_K2Q13,,,,,,,,,,,,MeMORYCOND,"Serious Difficulty Concentrating, Remembering, or Making Decisions (T2 T3)
+Header: Does this child have any of the following?
+Serious difficulty concentrating, remembering, or making decisions because of a physical, mental, or 
+emotional condition",Y
+MEMORYCOND,,,,,,,,,,,,K4Q23,Emotions Concentration Behavior Medication,Y
+K4Q23,,,,,,,,,,,,K2Q30A,"Learning Disability (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Learning Disability?
+Examples of educators are teachers and school nurses.",Y
+K2Q30A,,,,,,,,,,,,K2Q33A,"Anxiety (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Anxiety Problems?",Y
+K2Q33A,,,,,,,,,,,,K4Q22_R,Mental Health Professional Treatment,Y
+K4Q22_R,,,,,,,,,,,,K2Q36A,"Developmental Delay (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Developmental Delay?
+Examples of educators are teachers and school nurses",Y
+K2Q36A,,,,,,,,,,,,K2Q32A,"Depression (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Depression?",Y
+K2Q32A,,,,,,,,,,,,SC_K2Q13,"SC Needs or Uses More Medical Care than Others (S1)
+Does this child need or use more medical care,
+ mental health, or educational services than is usual for 
+most children of the same age?",
+SC_K2Q13,,,,,,,,,,,,K7Q70_R,Argues Too Much,Y
+K7Q70_R,,,,,,,,,,,,K2Q35A,"Autism ASD (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Autism or Autism Spectrum Disorder (ASD)?
+Include diagnoses of Asperger's Disorder or Pervasive Developmental Disorder (PDD).",Y
+K2Q35A,,,,,,,,,,,,K2Q37A,"Speech Disorder (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Speech or other language disorder?
+Examples of educators are teachers and school nurses",Y
+K2Q37A,,,,,,,,,,,,GENETIC,"Genetic Condition (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Other genetic or inherited condition?",Y
+GENETIC,,,,,,,,,,,,ACE11,Treated or judged unfairly because of health condition,Y
+ACE11,,,,,,,,,,,,SC_SEX,child sex(1),Y
+SC_SEX,,,,,,,,,,,,S4Q01,"DURING THE PAST 12 MONTHS, did this child see a doctor, nurse,
+ or other health care professional for sickchild care, well-child check-ups
+, physical exams, hospitalizations or any other kind of medical care? 
+Include health care visits done by video or phone.",
+S4Q01,,,,,,,,,,,,K2Q60A,"Intellectual Disability (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Intellectual Disability (formerly known as Mental Retardation)?
+Examples of educators are teachers and school nurses.",Y
+K2Q60A,,,,,,,,,,,,TOTFEMALE,Count of Female Children in Household (S1),Y
+TOTFEMALE,,,,,,,,,,,,ACE8,lived with dpressed or mentally illed person,Y
+ACE8,,,,,,,,,,,,ACE3,Parent or guardian divorced or separated,Y
+ACE3,,,,,,,,,,,,K2Q40A,"Asthma (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Asthma?",Y
+K2Q40A,,,,,,,,,,,,ACE9,lived with a alcholic or drug person,Y
+ACE9,,,,,,,,,,,,HEADACHE,"Headaches (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Frequent or severe headaches, including migraine?",Y
+HEADACHE,,,,,,,,,,,,PHYSACTIV,"Exercise, Play Sport, or Physical Activity for 60 Minutes",Y
+PHYSACTIV,,,,,,,,,,,,TOTAGE_6_11,- Count of Children Ages 6 to 11 in Household (S1,
+TOTAGE_6_11,,,,,,,,,,,,HOURSLEEP,Past Week - How Many Hours of Sleep Average,Y
+HOURSLEEP,,,,,,,,,,,,A2_GRADE,,Y
+A2_GRADE,,,,,,,,,,,,A2_SEX,What is this caregiver's sex? ,Y
+A2_SEX,,,,,,,,,,,,ACE5,Parent or guardian served time in jail or prison,Y
+ACE5,,,,,,,,,,,,ACE6,saw parents kick another,Y
+ACE6,,,,,,,,,,,,ACE7,was a victim of violence in their neighborhood,Y
+ACE7,,,,,,,,,,,,K2Q05,born more than 3 weeks before their due date,Y
+K2Q05,,,,,,,,,,,,OVERWEIGHT,Doctor Identified as Overweight,Y
+OVERWEIGHT,,,,,,,,,,,,HHCOUNT,"Number of People Living at Address (T1 T2 T3)
+How many people are living or staying at this address?
+Include everyone who usually lives or stays at this address. Do NOT include anyone who is living 
+somewhere else for more than two months, such as a college student living away or someone in the 
+Armed Forces on deployment.",
+HHCOUNT,,,,,,,,,,,,FAMCOUNT,"Number of People That Are Family Members (T1 T2 T3)
+How many of these people in your household are family members?
+Family is defined as anyone related to this child by blood, marriage, adoption, or through foster care.",Y
+FAMCOUNT,,,,,,,,,,,,EYEDOCTOR,Visition Tested by Eye Doctor ,
+EYEDOCTOR,,,,,,,,,,,,K2Q24A,"SC Needs Treatment for Emotion Develop Behave (S1)
+Does this child have any kind of emotional, developmental,
+ or behavioral problem for which they need 
+treatment or counseling?",?
+SC_K2Q22,,,,,,,,,,,,FPL_l5,"Family Poverty Ratio,Fifth Implicate(T1,T2,T3)",Y
+FPL_I5,,,,,,,,,,,,FPL_l1,"Family Poverty Ratio, First Implicate (T1 T2 T3)",Y
+FPL_I1,,,,,,,,,,,,FPL_l2,"Family Poverty Ratio, Second Implicate (T1 T2 T3)",Y
+FPL_I2,,,,,,,,,,,,K11Q61,Supplemental Nutrition Assistance Program (SNAP) benefits?,
+K11Q61,,,,,,,,,,,,CONCUSSION,A concussion=brain injury ,
+CONCUSSION,,,,,,,,,,,,HEART,"Heart Condition (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Heart Condition?",
+HEART,,,,,,,,,,,,FWC,Selected Child Weight (Operational),Y
+FWC,,,,,,,,,,,,FPL_l6,"Family Poverty Ratio,Sixth Implicate(T1,T2,T3)",Y
+FPL_I6,,,,,,,,,,,,FPL_l4,"Family Poverty Ratio,Fourth Implicate(T1,T2,T3)",Y
+FPL_I4,,,,,,,,,,,,FPL_l3,"Family Poverty Ratio, Second Implicate (T1 T2 T3)",Y
+FPL_I3,,,,,,,,,,,,DRESSING,"Difficulty Dressing or Bathing (T2 T3)
+Header: Does this child have any of the following?
+Difficulty dressing or bathing",
+DRESSING,,,,,,,,,,,,TOTKIDS_R,Number of Children in Household (S1),Y
+TOTKIDS_R,,,,,,,,,,,,K2Q38A,"Tourette Syndrome (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Tourette Syndrome?",
+K2Q38A,,,,,,,,,,,,HIGRADE_TVIS,"Highest Level of Education among Reported Adults, Detail
+ (T1 T2 T3)",Y
+HIGRADE_TVIS,,,,,,,,,,,,TOTAGE_0_5, Count of Children Ages 0 to 5 in Household (S1),
+TOTAGE_0_5,,,,,,,,,,,,K4Q30_R_3,"Dental Provider Visit - No (T1 T2 T3).DURING THE PAST 12 MONTHS, did this child see a dentist or other oral health care provider for any kind 
+of dental or oral health care?",
+K4Q30_R_3,,,,,,,,,,,,A2_EMPLOYEED,,Y
+A2_EMPLOYED,,,,,,,,,,,,A1_GRADE,What is the highest grade or level of school you have completed? ,Y
+A1_GRADE,,,,,,,,,,,,BLINDNESS,"Blindness (T1 T2 T3)
+Header: Does this child have any of the following?
+Blindness or problems with seeing, even when wearing glasses",
+BLINDNESS,,,,,,,,,,,,K2Q43B,"Deafness (T1 T2 T3)
+Header: Does this child have any of the following?
+Deafness or problems with hearing",
+K2Q43B,,,,,,,,,,,,,,
