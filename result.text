@@ -83,3 +83,173 @@ std precision: 0.0092
 average time: 1.3420
 
 
+algorithm name: XGBClassifier
+number of iterations: 5
+average accuracy: 86.3620
+max accuracy: 86.8190
+std accuracy: 0.6663
+average f1 score: 0.8604
+max f1 score: 0.8652
+std f1 score: 0.0062
+average recall: 0.8478
+max recall: 0.8534
+std recall: 0.0043
+average precision: 0.8735
+max precision: 0.8818
+std precision: 0.0103
+average time: 0.3916
+
+
+algorithm name: AdaBoostClassifier()
+number of iterations: 5
+average accuracy: 84.9678
+max accuracy: 85.5302
+std accuracy: 0.4753
+average f1 score: 0.8424
+max f1 score: 0.8489
+std f1 score: 0.0049
+average recall: 0.8106
+max recall: 0.8203
+std recall: 0.0102
+average precision: 0.8770
+max precision: 0.8955
+std precision: 0.0107
+average time: 0.2698
+
+
+algorithm name: GradientBoostingClassifier()
+number of iterations: 5
+average accuracy: 86.5964
+max accuracy: 87.1119
+std accuracy: 0.4678
+average f1 score: 0.8619
+max f1 score: 0.8667
+std f1 score: 0.0041
+average recall: 0.8437
+max recall: 0.8511
+std recall: 0.0043
+average precision: 0.8809
+max precision: 0.8901
+std precision: 0.0099
+average time: 0.6569
+
+
+algorithm name: RandomForestClassifier()
+number of iterations: 5
+average accuracy: 85.3896
+max accuracy: 86.3503
+std accuracy: 0.6272
+average f1 score: 0.8514
+max f1 score: 0.8599
+std f1 score: 0.0056
+average recall: 0.8444
+max recall: 0.8475
+std recall: 0.0024
+average precision: 0.8586
+max precision: 0.8752
+std precision: 0.0102
+average time: 0.5463
+
+
+algorithm name: SVC()
+number of iterations: 5
+average accuracy: 84.7452
+max accuracy: 85.4716
+std accuracy: 0.4001
+average f1 score: 0.8446
+max f1 score: 0.8515
+std f1 score: 0.0036
+average recall: 0.8366
+max recall: 0.8404
+std recall: 0.0025
+average precision: 0.8528
+max precision: 0.8629
+std precision: 0.0064
+average time: 1.4263
+
+
+algorithm name: XGBClassifier
+number of iterations: 150
+average accuracy: 86.3238
+max accuracy: 87.6977
+std accuracy: 0.5519
+average f1 score: 0.8600
+max f1 score: 0.8727
+std f1 score: 0.0050
+average recall: 0.8472
+max recall: 0.8605
+std recall: 0.0057
+average precision: 0.8733
+max precision: 0.8992
+std precision: 0.0104
+average time: 0.3024
+
+
+algorithm name: AdaBoostClassifier()
+number of iterations: 150
+average accuracy: 85.5923
+max accuracy: 87.1705
+std accuracy: 0.6032
+average f1 score: 0.8484
+max f1 score: 0.8634
+std f1 score: 0.0059
+average recall: 0.8133
+max recall: 0.8262
+std recall: 0.0060
+average precision: 0.8867
+max precision: 0.9141
+std precision: 0.0105
+average time: 0.1778
+
+
+algorithm name: GradientBoostingClassifier()
+number of iterations: 150
+average accuracy: 86.4937
+max accuracy: 87.7563
+std accuracy: 0.5698
+average f1 score: 0.8614
+max f1 score: 0.8740
+std f1 score: 0.0052
+average recall: 0.8466
+max recall: 0.8582
+std recall: 0.0046
+average precision: 0.8768
+max precision: 0.8994
+std precision: 0.0103
+average time: 0.5459
+
+
+algorithm name: RandomForestClassifier()
+number of iterations: 150
+average accuracy: 85.3158
+max accuracy: 86.9361
+std accuracy: 0.5983
+average f1 score: 0.8514
+max f1 score: 0.8657
+std f1 score: 0.0055
+average recall: 0.8488
+max recall: 0.8652
+std recall: 0.0049
+average precision: 0.8542
+max precision: 0.8822
+std precision: 0.0095
+average time: 0.5308
+
+
+algorithm name: SVC()
+number of iterations: 150
+average accuracy: 84.9330
+max accuracy: 86.3503
+std accuracy: 0.5977
+average f1 score: 0.8458
+max f1 score: 0.8602
+std f1 score: 0.0055
+average recall: 0.8338
+max recall: 0.8487
+std recall: 0.0058
+average precision: 0.8583
+max precision: 0.8848
+std precision: 0.0102
+average time: 1.3659
+
+
