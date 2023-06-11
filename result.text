@@ -253,3 +253,105 @@ std precision: 0.0102
 average time: 1.3659
 
 
+algorithm name: XGBClassifier
+number of iterations: 150
+average accuracy: 86.3972
+max accuracy: 88.0492
+std accuracy: 0.5624
+average f1 score: 0.8606
+max f1 score: 0.8753
+std f1 score: 0.0051
+average recall: 0.8469
+max recall: 0.8617
+std recall: 0.0056
+average precision: 0.8748
+max precision: 0.9063
+std precision: 0.0106
+average time: 0.3009
+
+
+algorithm name: XGBClassifier
+number of iterations: 200
+average accuracy: 86.3486
+max accuracy: 88.0492
+std accuracy: 0.6177
+average f1 score: 0.8608
+max f1 score: 0.8759
+std f1 score: 0.0059
+average recall: 0.8513
+max recall: 0.8617
+std recall: 0.0076
+average precision: 0.8705
+max precision: 0.9023
+std precision: 0.0107
+average time: 0.2988
+
+
+algorithm name: AdaBoostClassifier()
+number of iterations: 200
+average accuracy: 85.6054
+max accuracy: 87.4048
+std accuracy: 0.6061
+average f1 score: 0.8486
+max f1 score: 0.8655
+std f1 score: 0.0059
+average recall: 0.8140
+max recall: 0.8286
+std recall: 0.0060
+average precision: 0.8864
+max precision: 0.9190
+std precision: 0.0105
+average time: 0.2288
+
+
+algorithm name: GradientBoostingClassifier()
+number of iterations: 200
+average accuracy: 86.4871
+max accuracy: 87.9320
+std accuracy: 0.5414
+average f1 score: 0.8613
+max f1 score: 0.8741
+std f1 score: 0.0050
+average recall: 0.8466
+max recall: 0.8570
+std recall: 0.0045
+average precision: 0.8766
+max precision: 0.9051
+std precision: 0.0098
+average time: 0.5676
+
+
+algorithm name: RandomForestClassifier()
+number of iterations: 200
+average accuracy: 85.2326
+max accuracy: 86.9361
+std accuracy: 0.6811
+average f1 score: 0.8506
+max f1 score: 0.8660
+std f1 score: 0.0062
+average recall: 0.8483
+max recall: 0.8593
+std recall: 0.0047
+average precision: 0.8531
+max precision: 0.8831
+std precision: 0.0106
+average time: 0.5086
+
+
+algorithm name: SVC()
+number of iterations: 200
+average accuracy: 84.9801
+max accuracy: 86.5847
+std accuracy: 0.5706
+average f1 score: 0.8463
+max f1 score: 0.8620
+std f1 score: 0.0052
+average recall: 0.8345
+max recall: 0.8487
+std recall: 0.0055
+average precision: 0.8586
+max precision: 0.8851
+std precision: 0.0100
+average time: 1.2452
+
+
