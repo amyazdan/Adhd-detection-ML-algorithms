@@ -1,0 +1,79 @@
+algorithm name: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=0.005, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=5, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=None, num_parallel_tree=None,
+              predictor=None, random_state=42, ...)
+number of iterations: 150
+average accuracy: 86.5495
+max accuracy: 87.6977
+std accuracy: 0.5793
+average f1 score: 0.8644
+max f1 score: 0.8746
+std f1 score: 0.0051
+average recall: 0.8647
+max recall: 0.8676
+std recall: 0.0028
+average precision: 0.8641
+max precision: 0.8888
+std precision: 0.0100
+average time: 0.5203
+
+
+algorithm name: AdaBoostClassifier(estimator=DecisionTreeClassifier(max_depth=2),
+                   learning_rate=0.05, n_estimators=100, random_state=42)
+number of iterations: 150
+average accuracy: 86.4194
+max accuracy: 87.6977
+std accuracy: 0.5569
+average f1 score: 0.8608
+max f1 score: 0.8730
+std f1 score: 0.0051
+average recall: 0.8472
+max recall: 0.8582
+std recall: 0.0045
+average precision: 0.8750
+max precision: 0.8972
+std precision: 0.0100
+average time: 0.9191
+
+
+algorithm name: GradientBoostingClassifier()
+number of iterations: 150
+average accuracy: 86.6921
+max accuracy: 87.9906
+std accuracy: 0.6107
+average f1 score: 0.8649
+max f1 score: 0.8770
+std f1 score: 0.0053
+average recall: 0.8589
+max recall: 0.8652
+std recall: 0.0031
+average precision: 0.8709
+max precision: 0.8964
+std precision: 0.0112
+average time: 0.7112
+
+
+algorithm name: RandomForestClassifier()
+number of iterations: 150
+average accuracy: 85.1318
+max accuracy: 86.9947
+std accuracy: 0.6303
+average f1 score: 0.8479
+max f1 score: 0.8642
+std f1 score: 0.0060
+average recall: 0.8360
+max recall: 0.8534
+std recall: 0.0066
+average precision: 0.8602
+max precision: 0.8959
+std precision: 0.0102
+average time: 0.5503
+
+
