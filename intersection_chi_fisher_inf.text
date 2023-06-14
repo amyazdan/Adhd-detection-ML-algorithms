@@ -1,0 +1,106 @@
+algorithm name: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=0.005, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=5, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=None, num_parallel_tree=None,
+              predictor=None, random_state=42, ...)
+number of iterations: 1
+average accuracy: 86.2917
+max accuracy: 86.2917
+std accuracy: 0.0000
+average f1 score: 0.8566
+max f1 score: 0.8566
+std f1 score: 0.0000
+average recall: 0.8262
+max recall: 0.8262
+std recall: 0.0000
+average precision: 0.8893
+max precision: 0.8893
+std precision: 0.0000
+average time: 0.5159
+
+
+algorithm name: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=0.005, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=5, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=None, num_parallel_tree=None,
+              predictor=None, random_state=42, ...)
+number of iterations: 150
+average accuracy: 85.8629
+max accuracy: 87.5806
+std accuracy: 0.5646
+average f1 score: 0.8529
+max f1 score: 0.8686
+std f1 score: 0.0051
+average recall: 0.8267
+max recall: 0.8310
+std recall: 0.0020
+average precision: 0.8809
+max precision: 0.9128
+std precision: 0.0104
+average time: 0.4200
+
+
+algorithm name: AdaBoostClassifier(estimator=DecisionTreeClassifier(max_depth=2),
+                   learning_rate=0.05, n_estimators=100, random_state=42)
+number of iterations: 150
+average accuracy: 85.8715
+max accuracy: 86.9947
+std accuracy: 0.5231
+average f1 score: 0.8522
+max f1 score: 0.8619
+std f1 score: 0.0047
+average recall: 0.8220
+max recall: 0.8274
+std recall: 0.0026
+average precision: 0.8849
+max precision: 0.9094
+std precision: 0.0100
+average time: 0.8881
+
+
+algorithm name: GradientBoostingClassifier()
+number of iterations: 150
+average accuracy: 85.6329
+max accuracy: 86.8776
+std accuracy: 0.5258
+average f1 score: 0.8505
+max f1 score: 0.8617
+std f1 score: 0.0047
+average recall: 0.8243
+max recall: 0.8310
+std recall: 0.0027
+average precision: 0.8784
+max precision: 0.9018
+std precision: 0.0098
+average time: 0.8880
+
+
+algorithm name: RandomForestClassifier()
+number of iterations: 150
+average accuracy: 84.3753
+max accuracy: 86.1746
+std accuracy: 0.6516
+average f1 score: 0.8407
+max f1 score: 0.8566
+std f1 score: 0.0059
+average recall: 0.8320
+max recall: 0.8440
+std recall: 0.0046
+average precision: 0.8498
+max precision: 0.8812
+std precision: 0.0109
+average time: 0.9075
+
+
