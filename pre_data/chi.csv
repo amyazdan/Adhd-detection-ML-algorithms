@@ -1,0 +1,94 @@
+feature name,description,Ali,Sina,Borhan,Yazdan,Dr Sheikhy
+SC_AGE_YEARS,Child Age - Years(s1),Y,Y,,Y ,Y
+MOMAGE,"Age of Mother - Years (T1 T2 T3)
+What was the age of the mother when this child was born? Your best estimate is fine.",Y,Y,,Y ,Y
+A1_AGE,"Adult 1 - Age in Years (T1 T2 T3)
+What is your age? ",Y,Y,,Y ,Y
+A2_AGE,"Adult 2 - Age in Years (T1 T2 T3)
+What is this caregiver's age?",Y,Y,,Y ,Y
+MEMORYCOND,"Serious Difficulty Concentrating, Remembering, or Making Decisions (T2 T3)
+Header: Does this child have any of the following?
+Serious difficulty concentrating, remembering, or making decisions because of a physical, mental, or 
+emotional condition",Y,Y,,Y ,Y
+K4Q23,Emotions Concentration Behavior Medication,S,,,Y,Y
+ISSUECOST,Needed Health Care Not Received Due to - Cost,Y,Y,,Y,Y
+A1_EMPLOYED,Which of the following best describes your current employment status? ,Y,Y,,Y,Y
+A2_GRADE,- Adult 2 - Highest Completed Year of School (T1 T2 T3),Y,Y,,Y,Y
+A1_PHYSHEALTH,"In general, how is your physical health? ",Y,Y,,Y,Y
+A1_MENTHEALTH,"In general, how is your mental or emotional health? ",S,Y,,Y,Y
+K2Q01,General Health,S,Y,,Y,Y
+K6Q71_R,Show Interest and Curiosity,Y,Y,,Y,Y
+K7Q84_R,Works to Finish Tasks Started,Y,Y,,Y,Y
+K7Q85_R,Stays Calm and In Control When Challenged,Y,Y,,Y,Y
+K7Q82_R,Cares About Doing Well in School,Y,Y,,Y,Y
+K7Q70_R,Argues Too Much,Y,Y,,Y,Y
+BULLIED_R,"DURING THE PAST 12 MONTHS, how often
+Bullied, Picked On, or Excluded by Others",S/Y,Y,,Y,Y
+BULLY,"DURING THE PAST 12 MONTHS, how often
+Bullies Others, Picks on Them, or Excludes Them ",S/Y,Y,,Y,Y
+K8Q31,How Often Have You Felt - Child Hard to Care For,S,Y,,Y,Y
+K8Q32,How Often Have You Felt - Child Really Bothers You,Y/S,Y,,Y,
+K8Q34,- How Often Have You Felt - Angry with Child,Y/S,Y,,Y,
+K7Q02R_R,Days Child Missed School - Illness or Injury,S,S,,S,
+K7Q04R_R,Times School Contacted Household About Problems,Y,Y,,Y,Y
+SCREENTIME,"How Much Time Spent with TV, Cellphone, Computer",Y,Y,,Y,Y
+K4Q22_R,Mental Health Professional Treatment,S,S,,S,Y
+K8Q21,"- Share Ideas or Talk About Things That Matter
+How well can you and this child share ideas or talk about
+ things that really matter?",Y,Y,,Y,Y
+ACE1,"- Hard to Cover Basics Like Food or Housing (T1 T2 T3)
+SINCE THIS CHILD WAS BORN, how often has it been
+ very hard to cover the basics, like food or housing, on 
+your family's income?",Y,Y,,Y,Y
+MAKEFRIEND," Difficulty Making or Keeping Friends (T1 T2 T3)
+Compared to other children their age, how much difficulty
+ does this child have making or keeping friends?",Y,Y,,Y,Y
+TOTCSHCN,"Count of Children with Special Health Care Needs in
+ Household (S1)",Y,Y,,Y,Y
+SC_K2Q13,"SC Needs or Uses More Medical Care than Others (S1)
+Does this child need or use more medical care,
+ mental health, or educational services than is usual for 
+most children of the same age?",S,S,,S,
+SC_K2Q17,"SC Limited Ability from Health Condition (S1)
+If yes, is this child's limitation in abilities because of ANY
+ medical, behavioral, or other health condition?",S,S,,S,Y
+SC_K2Q22,"SC Needs Treatment for Emotion Develop Behave (S1)
+Does this child have any kind of emotional, developmental,
+ or behavioral problem for which they need 
+treatment or counseling?",-,-,,,Y
+TOTFEMALE,Count of Female Children in Household (S1),Y/S,Y,,Y,Y
+FAMILY_R,- Family Structure (T1 T2 T3),Y/S,Y,,Y,Y
+FPL_I1,"Family Poverty Ratio, First Implicate (T1 T2 T3)",Y/S,Y,,Y,Y
+FPL_I2,"Family Poverty Ratio, Second Implicate (T1 T2 T3)",Y/S,Y,,Y,Y
+FPL_I3,"Family Poverty Ratio, Third Implicate (T1 T2 T3)",Y/S,Y,,Y,Y
+FPL_I4,"Family Poverty Ratio, Fourth Implicate (T1 T2 T3)",Y/S,Y,,Y,Y
+FPL_I5,"FPL_I5 - Family Poverty Ratio, Fifth Implicate (T1 T2 T3)",Y/S,Y,,Y,Y
+FPL_I6,"FPL_I5 - Family Poverty Ratio, Sixth Implicate (T1 T2 T3)",Y/S,S,,Y,Y
+FWC,Selected Child Weight (Operational),Y,Y,,Y,Y
+ALLERGIES_DESC,Allergies Severity Description,Y,Y,,Y,Y
+K2Q40C,Asthma Severity Description,Y,Y,,Y,Y
+K2Q42C,Epilepsy Severity,Y,Y,,Y,
+HEADACHE_DESC,Headaches Severity,S/Y,Y,,Y,Y
+K2Q38C,Tourette Syndrome Severity,S/Y,S,,S,
+K2Q33C,Anxiety Severity,Y,Y,,Y,Y
+K2Q32C,Depression Severity,S,Y,,Y,Y
+GENETIC_DESC,Genetic Condition,S,Y,,Y,Y
+K2Q34C,Behavior Problems Severity,-,-,,Y,
+K2Q36C,Developmental Delay Severity,S,Y,,Y,
+K2Q60C,Intellectual Disability,S,Y,,Y,Y
+K2Q37C,Speech Disorder,Y,,,Y,Y
+K2Q30C,Learning Disability,Y,Y,,Y,Y
+K2Q35C,Autism ASD,-,-,,-,
+K2Q33A,"Anxiety (T1 T2 T3)
+Header: Has a doctor or other health care provider EVER told you that this child has…
+Anxiety Problems?",Y,Y,,Y,Y
+K2Q34A,"Behavior Problems (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Behavioral or Conduct Problems?
+Examples of educators are teachers and school nurses.",-,,,Y,Y
+K2Q34B,"Behavior Problems Currently (T1 T2 T3)
+If yes, does this child CURRENTLY have the condition?",-,,,Y,
+K2Q30A,"Learning Disability (T1 T2 T3)
+Header: Has a doctor, other health care provider, or educator EVER told you that this child has…
+Learning Disability?
+Examples of educators are teachers and school nurses.",Y,Y,,Y,
