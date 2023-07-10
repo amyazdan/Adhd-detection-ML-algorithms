@@ -1,0 +1,190 @@
+algorithm name: XGBClassifier
+number of iterations: 3
+average accuracy: 86.2722
+max accuracy: 87.2291
+std accuracy: 0.6770
+average f1 score: 0.8609
+max f1 score: 0.8715
+std f1 score: 0.0075
+average recall: 0.8490
+max recall: 0.8633
+std recall: 0.0118
+average precision: 0.8732
+max precision: 0.8798
+std precision: 0.0064
+average time: 2.5957
+
+
+algorithm name: XGBClassifier
+number of iterations: 100
+average accuracy: 86.2191
+max accuracy: 87.8149
+std accuracy: 0.7289
+average f1 score: 0.8602
+max f1 score: 0.8754
+std f1 score: 0.0079
+average recall: 0.8484
+max recall: 0.8710
+std recall: 0.0110
+average precision: 0.8724
+max precision: 0.8965
+std precision: 0.0112
+average time: 3.3162
+
+
+algorithm name: AdaBoostClassifier(algorithm='SAMME',
+                   estimator=DecisionTreeClassifier(max_depth=3),
+                   learning_rate=0.1, n_estimators=200, random_state=42)
+number of iterations: 100
+average accuracy: 86.2343
+max accuracy: 88.7522
+std accuracy: 0.7811
+average f1 score: 0.8606
+max f1 score: 0.8826
+std f1 score: 0.0083
+average recall: 0.8492
+max recall: 0.8760
+std recall: 0.0120
+average precision: 0.8724
+max precision: 0.8989
+std precision: 0.0101
+average time: 4.1349
+
+
+algorithm name: GradientBoostingClassifier(min_samples_split=5)
+number of iterations: 100
+average accuracy: 86.3275
+max accuracy: 88.6350
+std accuracy: 0.7643
+average f1 score: 0.8608
+max f1 score: 0.8820
+std f1 score: 0.0082
+average recall: 0.8462
+max recall: 0.8776
+std recall: 0.0119
+average precision: 0.8761
+max precision: 0.9051
+std precision: 0.0114
+average time: 1.7249
+
+
+algorithm name: RandomForestClassifier(max_depth=10, max_features=25, min_samples_split=10,
+                       n_estimators=200)
+number of iterations: 100
+average accuracy: 86.3708
+max accuracy: 87.9320
+std accuracy: 0.6861
+average f1 score: 0.8622
+max f1 score: 0.8800
+std f1 score: 0.0077
+average recall: 0.8524
+max recall: 0.8796
+std recall: 0.0106
+average precision: 0.8722
+max precision: 0.8938
+std precision: 0.0097
+average time: 3.7974
+
+
+algorithm name: SVC(C=1, gamma=0.1, probability=True)
+number of iterations: 100
+average accuracy: 68.8805
+max accuracy: 71.0603
+std accuracy: 0.8956
+average f1 score: 0.7308
+max f1 score: 0.7559
+std f1 score: 0.0087
+average recall: 0.8459
+max recall: 0.8722
+std recall: 0.0121
+average precision: 0.6434
+max precision: 0.6740
+std precision: 0.0127
+average time: 26.8363
+
+
+algorithm name: LogisticRegression(C=1, max_iter=1000, random_state=0, solver='newton-cholesky')
+number of iterations: 100
+average accuracy: 85.7194
+max accuracy: 87.4634
+std accuracy: 0.8301
+average f1 score: 0.8522
+max f1 score: 0.8722
+std f1 score: 0.0089
+average recall: 0.8206
+max recall: 0.8525
+std recall: 0.0136
+average precision: 0.8865
+max precision: 0.9102
+std precision: 0.0110
+average time: 0.0572
+
+
+algorithm name: DecisionTreeClassifier(max_depth=5, min_samples_leaf=5, min_samples_split=10)
+number of iterations: 100
+average accuracy: 85.8471
+max accuracy: 87.6391
+std accuracy: 0.7132
+average f1 score: 0.8565
+max f1 score: 0.8749
+std f1 score: 0.0076
+average recall: 0.8462
+max recall: 0.8730
+std recall: 0.0139
+average precision: 0.8673
+max precision: 0.8914
+std precision: 0.0090
+average time: 0.0297
+
+
+algorithm name: GaussianNB()
+number of iterations: 100
+average accuracy: 81.0152
+max accuracy: 83.1869
+std accuracy: 0.8215
+average f1 score: 0.7995
+max f1 score: 0.8204
+std f1 score: 0.0094
+average recall: 0.7569
+max recall: 0.7847
+std recall: 0.0135
+average precision: 0.8473
+max precision: 0.8734
+std precision: 0.0113
+average time: 0.0187
+
+
+algorithm name: KNeighborsClassifier(n_neighbors=7, p=1)
+number of iterations: 100
+average accuracy: 70.0082
+max accuracy: 72.7006
+std accuracy: 0.9535
+average f1 score: 0.6300
+max f1 score: 0.6599
+std f1 score: 0.0124
+average recall: 0.5103
+max recall: 0.5526
+std recall: 0.0142
+average precision: 0.8236
+max precision: 0.8681
+std precision: 0.0153
+average time: 1.8278
+
+
+algorithm name: EnsembleModel
+number of iterations: 30
+average accuracy: 86.1863
+max accuracy: 87.6391
+std accuracy: 0.7517
+average f1 score: 0.8592
+max f1 score: 0.8706
+std f1 score: 0.0084
+average recall: 0.8467
+max recall: 0.8684
+std recall: 0.0128
+average precision: 0.8722
+max precision: 0.8959
+std precision: 0.0100
+average time: 15.7065
+
+
