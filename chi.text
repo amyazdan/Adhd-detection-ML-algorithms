@@ -222,20 +222,6 @@ std precision: 0.0102
 average time: 23.6349
 
 
-algorithm name: EnsembleModel
-number of iterations: 30
-average accuracy: 86.1550
-max accuracy: 87.9906
-std accuracy: 0.8129
-average f1 score: 0.8587
-max f1 score: 0.8767
-std f1 score: 0.0087
-average recall: 0.8405
-max recall: 0.8626
-std recall: 0.0115
-average precision: 0.8778
-max precision: 0.9075
-std precision: 0.0120
-average time: 24.5789
+
 
 
