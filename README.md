@@ -13,7 +13,7 @@ The dataset used in this project is the NSCH dataset provided by the NSCH organi
 The selected features and the result of the feature extraction algorithms can be found in `pre_date` folder.
 ## Features Selection
 
-Before applying the machine learning algorithms, a manual feature selection process is performed to identify the most relevant features. Additionally, feature extraction algorithms such as information gain, chi score, fisher score, and correlation are applied to further enhance the feature set.
+Before applying the machine learning algorithms, a manual feature selection process is performed to identify the most relevant features. Additionally, feature extraction algorithms such as Information Gain, Chi-Square, Fisher Score, and Correlation Coefficient are applied to further enhance the feature set.
 
 ## Machine Learning Algorithms
 
