@@ -33,4 +33,4 @@ In addition to the individual algorithms, combinations and variants of these alg
 
 ## Usage
 
-The main code for this project is available in the `adhd.ipynb` Jupyter Notebook. You can open it using Jupyter or Google Colab to run the code and experiment with different configurations.
+The main code for this project is available in the `ADHD/ADHD/ADHD_CODE.ipynb` Jupyter Notebook. You can open it using Jupyter or Google Colab to run the code and experiment with different configurations.
